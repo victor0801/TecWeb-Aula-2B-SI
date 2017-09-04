@@ -101,3 +101,12 @@ p.centroe1{
   font-family: Times New Roman, helvetica, sans-serif;
   text-indent: 100px;
 }
+
+.float img {
+  float:left ;
+  padding: 0px 20px 20px 0px ;
+}
+
+.solid {
+  clear:both;
+}
