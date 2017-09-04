@@ -1,0 +1,103 @@
+.cinza {
+	background-color:lightgray;
+}
+
+.vermelho {
+	color:red;
+}
+
+.green {
+  color:green;
+}
+
+tr {
+  text-align:center;
+}
+
+th {
+  text-align:center;
+}
+
+td {
+  text-align:center;
+}
+
+.bordase1 {
+  border-top-width: 2px;
+  border-top-color: black;
+  border-top-style: solid;
+
+
+  border-right-width: px;
+  border-right-color: black;
+  border-right-style: solid;
+  
+  border-bottom-width: 2px;
+  border-bottom-color: black;
+  border-bottom-style: solid;
+  
+  border-left-width: px;
+  border-left-color: black;
+  border-left-style: solid;
+
+}
+
+p.centroe1{
+	text-align: center;
+	color: red;
+	font-family: verdana;
+	font-size: 12px;
+	line-height: 50px;
+	
+}
+
+.bordase2 {
+  border-bottom-width: 1px;
+  border-bottom-color: #4F81BD;
+  border-bottom-style: solid; 
+}
+.pt {
+ font-size: 40px;
+ font-family: Arial, helvetica, sans-serif;
+ text-align: center;
+ font-weight: bold;
+}
+.arial {
+  font-family: Arial, helvetica, sans-serif;
+  text-align: left;
+  color: #4F81BD;
+}
+.underline {
+  font-family: Arial, helvetica, sans-serif;
+  text-decoration: underline;
+  text-align: left;
+  color: red;
+}
+.p {
+  font-family: Times New Roman, helvetica, sans-serif;
+  text-indent: 100px;
+}
+.direita {
+  font-family: Times New Roman, helvetica, sans-serif;
+  text-indent: 50px ;
+}
+.bold {
+  font-family: Arial, helvetica, sans-serif;
+  font-weight: bold;
+  text-align: left;
+  color: green;
+}
+.italico {
+  font-family: Arial, helvetica, sans-serif;
+  font-style: italic;
+  text-align: left;
+  color: orange;
+}
+.q {
+  font-family: Times New Roman, helvetica, sans-serif;
+  text-indent: 50px ;
+}
+.r {
+  font-family: Times New Roman, helvetica, sans-serif;
+  text-indent: 100px;
+}
